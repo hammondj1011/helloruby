@@ -1,0 +1,1 @@
+There is a way to undo your entire scaffold: rails d scaffold Generated_Scaffold_Name:
